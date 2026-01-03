@@ -18,8 +18,8 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
-  "terminal.integrated.defaultProfile.linux": "zsh"
-  "workbench.colorTheme": "Visual Studio Dark",
+  "terminal.integrated.defaultProfile.linux": "fish",
+  "workbench.colorTheme": "Ayu Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "workbench.editorAssociations": {
